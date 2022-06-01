@@ -1,8 +1,15 @@
 <h1><img src="https://readme-typing-svg.herokuapp.com?size=24&color=F736CF&lines=Welcome+to+my+github+page;I+am+Thanh+Toan;I+am+Front+End+Developer"></h1>
 
+<h1> Hi, i'm Thanh Toan </h1>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=toandz2204&label=Profile%20Views&color=1&icon=7&pretty=true" />
+</a>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://24hstore.vn/upload_images/images/2019/11/14/anh-gif-2-min.gif" alt="">
+<div align="center">
+  <img src="https://24hstore.vn/upload_images/images/2019/11/14/anh-gif-2-min.gif" alt="">
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -20,12 +27,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<a href="https://github-trophies.vercel.app/?username=toandz2204" target="_blank">
+<div align="center">
+  <a href="https://github-trophies.vercel.app/?username=toandz2204" target="_blank">
     <img src="https://github-trophies.vercel.app/?username=toandz2204&theme=radical&margin-w=6&margin-h=6">
-</a>
+  </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 
 
